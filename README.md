@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MalkiN</h1>
 <h3 align="center">A student who wants to be programmer / developer</h3>
 
-- 🔭 I’m currently working on [Mr.Tocka](private)
+- 🔭 I’m currently working on [Mr.Tocka]
 
 - 🌱 I’m currently learning **C++, JavaScript**
 
