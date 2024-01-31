@@ -1,4 +1,4 @@
-# HELLO
+# <h1 align="center">HELLO</h1>
 <h1 align="center">Hi 👋, I'm MalkiN</h1>
 <h3 align="center">A student who wants to be programmer / developer</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C++, JavaScript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="leftr">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/malkin_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malkin_exe" height="30" width="40" /></a>
 </p>
