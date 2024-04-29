@@ -1,6 +1,6 @@
 # <h1 align="center">HELLO</h1>
 <h1 align="center">Hi 👋, I'm MalkiN</h1>
-<h3 align="center">A student who wants to be programmer / developer</h3>
+
 
 - 🔭 I’m currently working on [NOTHING]
 
