@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm MalkiN</h1>
 
 
-- 🔭 I’m currently working on [NOTHING]
 
-- 🌱 I’m currently learning **C++, JavaScript**
 
 <h3 align="leftr">Connect with me:</h3>
 <p align="left">
