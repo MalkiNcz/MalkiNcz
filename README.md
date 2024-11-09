@@ -1,6 +1,6 @@
-- Currently working on: 
-CockDownShooter
-discord-mod bot
+- Currently working on: /n
+**CockDownShooter**
+**discord-mod bot**
 
 
 
