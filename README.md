@@ -1,4 +1,6 @@
-- Currently working on: **CockDownShooter, discord-mod bot**
+- Currently working on: 
+**CockDownShooter
+discord-mod bot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
